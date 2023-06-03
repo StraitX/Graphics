@@ -1,6 +1,6 @@
 #include "graphics/api/buffer.hpp"
 #include "graphics/api/graphics_api.hpp"
-#include "core/os/vulkan.hpp"
+#include "graphics/api/vulkan/vulkan.hpp"
 
 #ifdef SX_VULKAN_SUPPORTED
     #include "graphics/api/vulkan/buffer_impl.hpp"

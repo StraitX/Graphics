@@ -1,7 +1,7 @@
 #ifndef STRAITX_VULKAN_RENDER_PASS_IMPL
 #define STRAITX_VULKAN_RENDER_PASS_IMPL
 
-#include "core/os/vulkan.hpp"
+#include "graphics/api/vulkan/vulkan.hpp"
 #include "core/fixed_list.hpp"
 #include "core/defs.hpp"
 #include "graphics/api/render_pass.hpp"

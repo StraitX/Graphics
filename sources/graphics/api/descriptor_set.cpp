@@ -1,6 +1,6 @@
 #include "graphics/api/descriptor_set.hpp"
 #include "graphics/api/graphics_api.hpp"
-#include "core/os/vulkan.hpp"
+#include "graphics/api/vulkan/vulkan.hpp"
 
 #ifdef SX_VULKAN_SUPPORTED
     #include "graphics/api/vulkan/descriptor_set_impl.hpp"

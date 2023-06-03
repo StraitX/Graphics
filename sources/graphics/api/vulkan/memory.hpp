@@ -1,7 +1,7 @@
 #ifndef STRAITX_VULKAN_MEMORY_HPP
 #define STRAITX_VULKAN_MEMORY_HPP
 
-#include "core/os/vulkan.hpp"
+#include "graphics/api/vulkan/vulkan.hpp"
 #include "core/types.hpp"
 #include "core/defs.hpp"
 #include "core/assert.hpp"

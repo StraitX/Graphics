@@ -1,7 +1,7 @@
 #ifndef STRAITX_VULKAN_PIPELINE_HPP
 #define STRAITX_VULKAN_PIPELINE_HPP
 
-#include "core/os/vulkan.hpp"
+#include "graphics/api/vulkan/vulkan.hpp"
 #include "graphics/api/vulkan/descriptor_set_impl.hpp"
 
 namespace Vk {

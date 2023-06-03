@@ -1,6 +1,6 @@
 #define VK_USE_PLATFORM_WIN32_KHR
-#include "core/os/vulkan.hpp"
-#include "core/os/vulkan_surface.hpp"
+#include "graphics/api/vulkan/vulkan.hpp"
+#include "graphics/api/vulkan/vulkan_surface.hpp"
 
 Result VulkanSurface::Create(VkInstance owner, const OSWindowImpl& window) {
     Owner = owner;

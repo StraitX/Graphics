@@ -2,7 +2,7 @@
 #define STRAITX_VULKAN_GRAPHICS_API_IMPL_HPP
 
 #include "graphics/api/graphics_api.hpp"
-#include "core/os/vulkan.hpp"
+#include "graphics/api/vulkan/vulkan.hpp"
 
 namespace Vk{
 

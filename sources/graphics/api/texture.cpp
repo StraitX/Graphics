@@ -1,6 +1,6 @@
 #include "graphics/api/texture.hpp"
 #include "graphics/api/graphics_api.hpp"
-#include "core/os/vulkan.hpp"
+#include "graphics/api/vulkan/vulkan.hpp"
 #include "core/assert.hpp"
 #include "core/unique_ptr.hpp"
 

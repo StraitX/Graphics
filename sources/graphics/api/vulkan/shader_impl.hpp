@@ -1,7 +1,7 @@
 #ifndef STRAITX_VULKAN_SHADER_IMPL_HPP
 #define STRAITX_VULKAN_SHADER_IMPL_HPP
 
-#include "core/os/vulkan.hpp"
+#include "graphics/api/vulkan/vulkan.hpp"
 #include "graphics/api/shader.hpp"
 
 namespace Vk{

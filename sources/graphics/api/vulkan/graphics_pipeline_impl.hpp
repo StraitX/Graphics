@@ -2,7 +2,7 @@
 #define STRAITX_VULKAN_GRAPHICS_PIPELINE_IMPL_HPP
 
 #include "core/fixed_list.hpp"
-#include "core/os/vulkan.hpp"
+#include "graphics/api/vulkan/vulkan.hpp"
 #include "graphics/api/graphics_pipeline.hpp"
 #include "graphics/api/vulkan/pipeline.hpp"
 

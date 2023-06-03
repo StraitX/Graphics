@@ -1,7 +1,7 @@
 #ifndef STRAITX_VULKAN_GPU_MEMORY_ALLOCATOR_HPP
 #define STRAITX_VULKAN_GPU_MEMORY_ALLOCATOR_HPP
 
-#include "core/os/vulkan.hpp"
+#include "graphics/api/vulkan/vulkan.hpp"
 #include "core/defs.hpp"
 #include "graphics/api/vulkan/memory.hpp"
 

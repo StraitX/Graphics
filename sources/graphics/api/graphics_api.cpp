@@ -1,5 +1,5 @@
 #include "graphics/api/graphics_api.hpp"
-#include "core/os/vulkan.hpp"
+#include "graphics/api/vulkan/vulkan.hpp"
 
 #if defined(SX_VULKAN_SUPPORTED)
     #include "graphics/api/vulkan/graphics_api_impl.hpp"

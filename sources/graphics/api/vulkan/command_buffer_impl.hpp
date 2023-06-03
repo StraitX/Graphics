@@ -1,7 +1,7 @@
 #ifndef STRAITX_VULKAN_COMMAND_BUFFER_IMPL_HPP
 #define STRAITX_VULKAN_COMMAND_BUFFER_IMPL_HPP
 
-#include "core/os/vulkan.hpp"
+#include "graphics/api/vulkan/vulkan.hpp"
 #include "core/list.hpp"
 #include "graphics/api/command_buffer.hpp"
 #include "graphics/api/vulkan/gpu_impl.hpp"

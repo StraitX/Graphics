@@ -2,7 +2,7 @@
 #define STRAITX_VULKAN_GPU_IMPL_HPP
 
 #include "graphics/api/gpu.hpp"
-#include "core/os/vulkan.hpp"
+#include "graphics/api/vulkan/vulkan.hpp"
 #include "core/list.hpp"
 #include "core/pair.hpp"
 #include "graphics/api/vulkan/queue.hpp"

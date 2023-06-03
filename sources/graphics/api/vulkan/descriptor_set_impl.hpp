@@ -1,7 +1,7 @@
 #ifndef STRAITX_VULKAN_DESCRIPTOR_SET_IMPL_HPP
 #define STRAITX_VULKAN_DESCRIPTOR_SET_IMPL_HPP
 
-#include "core/os/vulkan.hpp"
+#include "graphics/api/vulkan/vulkan.hpp"
 #include "core/fixed_list.hpp"
 #include "graphics/api/descriptor_set.hpp"
 

@@ -3,7 +3,7 @@
 #include "core/assert.hpp"
 #include "core/os/memory.hpp"
 
-#include "core/os/vulkan.hpp"
+#include "graphics/api/vulkan/vulkan.hpp"
 
 #if defined(SX_VULKAN_SUPPORTED)
     #include "graphics/api/vulkan/gpu_impl.hpp"

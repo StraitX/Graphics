@@ -1,6 +1,6 @@
 #include <Windows.h>
 #include <string.h>
-#include "core/os/glloader.hpp"
+#include "graphics/api/opengl/glloader.hpp"
 #include "platform/windows/wgl.hpp"
 
 bool OpenGLLoader::LoadPlatformExtensions() {
